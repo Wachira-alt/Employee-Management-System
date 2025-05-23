@@ -1,0 +1,1 @@
+-- $bash sqlite3 db/library.db < db/updates/002_update_departments_name.sql
