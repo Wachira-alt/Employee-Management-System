@@ -7,4 +7,4 @@ VALUES
 
 
 
---  applying it -> $ sqlite3 db/sqlite3 db/library.db < db/seeds/002_seed_employees.sql
+--  applying it -> $ sqlite3 db/library.db < db/seeds/002_seed_employees.sql
