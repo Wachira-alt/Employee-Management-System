@@ -1,4 +1,4 @@
-CREATE TABLE employees(
+CREATE TABLE IF NOT EXISTS employees(
   id INTEGER PRIMARY KEY,
   full_name TEXT NOT NULL,
   email TEXT NOT NULL,
