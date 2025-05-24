@@ -90,6 +90,13 @@ ON departments.id = employees.department_id;
 -- | Human Resources  | Bob            |
 
 
+   -- RELATIONSHIPS
+
+-- ONE TO MANY -> achieved using a foreign key
+-- MANY TO MANY -> achieved usinga join table
+-- JOIN TABLE DESIGN --> has to foreign keys- example employee_project(project id, employee.id)
+
+
  
 
 
